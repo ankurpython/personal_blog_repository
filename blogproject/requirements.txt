@@ -82,7 +82,7 @@ nose==1.3.7
 notebook==5.7.4
 numpy==1.16.1
 oauthlib==2.1.0
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 openpyxl==2.6.2
 packaging==19.0
 pandas==0.24.1
