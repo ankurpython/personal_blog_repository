@@ -52,7 +52,7 @@ flower==0.9.3
 folium==0.7.0
 geographiclib==1.49
 geopy==1.18.1
-httpie==1.0.2
+httpie==3.1.0
 hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
