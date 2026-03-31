@@ -5,7 +5,7 @@ argon2-cffi==18.3.0
 asgiref==3.1.2
 async-timeout==3.0.1
 attrs==19.1.0
-autobahn==19.3.3
+autobahn==20.12.3
 Automat==0.7.0
 Babel==2.7.0
 backcall==0.1.0
