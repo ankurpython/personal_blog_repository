@@ -63,7 +63,7 @@ itsdangerous==1.1.0
 jaraco.functools==2.0
 jdcal==1.4.1
 jedi==0.13.2
-Jinja2==2.10
+Jinja2==2.11.3
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.4
